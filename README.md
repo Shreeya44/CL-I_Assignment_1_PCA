@@ -1,5 +1,4 @@
 # CL-I_Assignment_1_PCA
-# Problem statement 
 # Feature Transformation:
 To use PCA Algorithm for dimensionality reduction.
 You have a dataset that includes measurements for different variables on wine
